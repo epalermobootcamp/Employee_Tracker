@@ -69,18 +69,19 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Video
 
-A link to the [Video](https://):
+A link to the [Video](https://drive.google.com/file/d/1MVwbB92lcddjPrpR3aCamBAOGCLEzmBJ/view):
 
 ```
-https://
+https://drive.google.com/file/d/1MVwbB92lcddjPrpR3aCamBAOGCLEzmBJ/view
+
 ```
 
 ## Link
 
-A link to the [code](https://):
+A link to the [code](https://github.com/epalermobootcamp/Employee_Tracker):
 
 ```
-https://
+https://github.com/epalermobootcamp/Employee_Tracker
 ```
 
 ## Questions
